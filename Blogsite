@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog Page</title>
+  <meta>
+    charset="utf8";
+  </meta>
+  <link>
+    rel="stylesheet" href="";
+  </link>
+  <meta>name="blog" description="blogWebsite"</meta>
+</head>
+<header>
+  <h1>JIZMODO</h1>
+</header>
+<body>
+<nav id="navbar">
+  <ul>
+    <li>HOME</li>
+    <li>LATEST</li>
+    <li>REVIEWS</li>
+  </ul>
+</nav>
+  <div id="healthPost">
+  <figure>
+    <img src="" />
+    <figcaption class="highlight">HEALTH</figcaption>
+  </figure>
+    <h1>CDC Warns Doctors About a Mystery Bacterial Outbreak With No Clear Origin</h3>
+    <p>It's unknown how three people in three states caught the often-fatal tropical
+    disease melioidosis, which isn't normally transmissible between humans.</p>
+  </div>
+  <div class="container">
+    <div class="box">
+      <figure>
+        <img src="" />
+        <figcaption class="highlight">APPLE</figcaption>
+      </figure>
+      <h3>macOS Monterey Might Make You Want to Actually Update Your Mac</h3>
+      <p class="author">Amanda McHarry</p>
+  </div>
+  <div class="box">
+      <figure>
+        <img src="" />
+        <figcaption class="highlight">EXTREME WEATHER</figcaption>
+      </figure>
+      <h3>'I Suspect It Will Get a Lot Worse': Firestorm in British Columbua Helps 
+      Spark 710,000 Bolts of Lighting</h3>
+      <p class="author">Brian Kahn</p>
+  </div>
+  <div class="box">
+      <figure>
+        <img src="" />
+        <figcaption class="highlight">PRIVACY AND SECURITY</figcaption>
+      </figure>
+  </div>
+  <div class="box">
+      <figure>
+        <img src="" />
+        <figcaption class="highlight">APPLE</figcaption>
+      </figure>
+  </div>
+</body>
+</html>
